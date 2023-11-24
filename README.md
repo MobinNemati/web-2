@@ -1,2 +1,2 @@
 # maktabkhone-s4
- tamrin akhar django maktabkhone s4
+ project akhar django maktabkhone s4
